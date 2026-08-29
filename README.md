@@ -1,7 +1,7 @@
 # Home-Server
 A documentation of my home server project using an old HP ProBook 455 G4 laptop with a broken screen, home server running Fedora Server.
 
-
+![image alr](https://github.com/zelda19/Home-Server/blob/0db94db33163ec7b54e6451ea0dce85ec8ef22f6/jellyfin-dashboard.png)
 ## Component  Details
 Device     HP ProBook 455 G4
 CPU        AMD A10-9600P
